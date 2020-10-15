@@ -1,0 +1,15 @@
+{
+  "name": "03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LD8/lg-03-01-snabbdom-03.git",
+  "author": "ld8 <don_lee@me.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
